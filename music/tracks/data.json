@@ -158,7 +158,7 @@
 		{"fname" : "dont_walk_away.mp3", "name" : "Don't Walk Away", "created" : 2010, "length" : 231, "tags" : ["neutral", "romantic", "beat"]},
 		{"fname" : "draft_trap.mp3", "name" : "Draft Trap", "created" : 2013, "length" : 54, "tags" : ["neutral", "beat", "energetic"]},
 		{"fname" : "dream_machine.mp3", "name" : "Dream Machine", "created" : 2008, "length" : 235, "tags" : ["movie", "ambient"]},
-		{"fname" : "enjoytheride.mp3", "name" : "Enjoy The Ride", "created" : 2008, "length" : 237, "tags" : ["neutral", "energetic", "movie"]},
+		{"fname" : "enjoytheride.mp3", "name" : "Enjoy The Ride", "created" : 2008, "length" : 237, "tags" : ["hopeful", "energetic", "movie"]},
 		{"fname" : "factory_method.mp3", "name" : "Factory Method", "created" : 2012, "length" : 149, "tags" : ["neutral", "beat", "mysterious"]},
 		{"fname" : "feelings.mp3", "name" : "Feelings", "created" : 2008, "length" : 222, "tags" : ["sad", "beat", "hopeful"]},
 		{"fname" : "floating_away.mp3", "name" : "Floating Away", "created" : 2009, "length" : 249, "tags" : ["happy", "game"]},
