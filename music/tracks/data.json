@@ -1,0 +1,235 @@
+{
+	"emotions" : {
+		"sad" : {
+			"color" : "blue",
+			"icon" : "mdi-emoticon-cry"
+		},
+
+		"happy" : {
+			"color" : "palegoldenrod",
+			"icon" : "mdi-emoticon-happy"
+		},
+
+		"neutral" : {
+			"color" : "gray",
+			"icon" : "mdi-emoticon-neutral"
+		},
+
+		"romantic" : {
+			"color" : "deeppink",
+			"icon" : "mdi-heart"
+		},
+
+		"cute" : {
+			"color" : "coral",
+			"icon" : "mdi-cat"
+		},
+		
+		"ambient" : {
+			"color" : "darkmagenta",
+			"icon" : "mdi-weather-night"
+		},
+		
+		"game" : {
+			"color" : "darkcyan",
+			"icon" : "mdi-gamepad-variant"
+		},
+		
+		"energetic" : {
+			"color" : "deepskyblue",
+			"icon" : "mdi-flash"
+		},
+		
+		"competition" : {
+			"color" : "gold",
+			"icon" : "mdi-trophy"
+		},
+		
+		"commercial" : {
+			"color" : "green",
+			"icon" : "mdi-shopping"
+		},
+		
+		"relaxed" : {
+			"color" : "saddlebrown",
+			"icon" : "mdi-coffee"
+		},
+		
+		"positive" : {
+			"color" : "yellow",
+			"icon" : "mdi-weather-sunny"
+		},
+
+		"movie" : {
+			"color" : "dimgray",
+			"icon" : "mdi-filmstrip"
+		},
+		
+		"organic" : {
+			"color" : "seagreen",
+			"icon" : "mdi-leaf"
+		},
+		
+		"beat" : {
+			"color" : "indigo",
+			"icon" : "mdi-boombox"
+		},
+		
+		"funny" : {
+			"color" : "orange",
+			"icon" : "mdi-emoticon-tongue"
+		},
+
+		"mysterious": {
+			"color" : "navy",
+			"icon" : "mdi-crystal-ball"
+		},
+
+		"hopeful": {
+			"color" : "cadetblue",
+			"icon" : "mdi-weather-partlycloudy"
+		}
+
+	},
+
+	"categories" : {
+		"acoustic" : {
+			"color" : "green",
+			"icon" : "fa-leaf"
+		},
+
+		"hard" : {
+			"color" : "forestgreen",
+			"icon" : "fa-rocket"
+		},
+
+		"game" : {
+			"color" : "gold",
+			"icon" : "fa-gamepad"
+		},
+
+		"uptempo" : {
+			"color" : "forestgreen",
+			"icon" : "fa-plane"
+		},
+
+
+		"loop" : {
+			"color" : "white",
+			"icon" : "fa-refresh"
+		}
+	},
+
+	"genres" : {
+		"ambient" : {
+			"color" : "blueviolet",
+			"icon" : "fa-moon-o"
+		},
+
+		"beat" : {
+			"color" : "forestgreen",
+			"icon" : "fa-car"
+		},
+
+		"slowbeat" : {
+			"color" : "forestgreen",
+			"icon" : "fa-ship"
+		}
+	},
+
+	"tracks" : [
+		{"fname" : "all_the_worries_in_the_world.mp3", "name" : "All The Worries In The World", "created" : 2010, "length" : 230, "tags" : ["sad", "beat"]},
+		{"fname" : "alone.mp3", "name" : "Alone", "created" : 2012, "length" : 362, "tags" : ["sad", "ambient"]},
+		{"fname" : "andytensta.mp3", "name" : "Andy Tensta", "created" : 2008, "length" : 246, "tags" : ["positive", "energetic"]},
+		{"fname" : "any_more_babes.mp3", "name" : "Any More Babes", "created" : 2007, "length" : 95, "tags" : ["funny", "beat"]},
+		{"fname" : "aurea_borealis.mp3", "name" : "Aurea Borealis", "created" : 2014, "length" : 388, "tags" : ["ambient"]},
+		{"fname" : "autumn_evenings.mp3", "name" : "Autumn Evenings", "created" : 2011, "length" : 366, "tags" : ["ambient"]},
+		{"fname" : "autumn_theme.mp3", "name" : "Autumn Theme", "created" : 2010, "length" : 422, "tags" : ["ambient", "movie"]},
+		{"fname" : "beautiful_dream.mp3", "name" : "Beautiful Dream", "created" : 2013, "length" : 244, "tags" : ["relaxed", "ambient"]},
+		{"fname" : "bells_and_whistles.mp3", "name" : "Bells And Whistles", "created" : 2008, "length" : 254, "tags" : ["positive", "energetic"]},
+		{"fname" : "betularme.mp3", "name" : "Betular Me", "created" : 2011, "length" : 314, "tags" : ["positive", "cute", "beat"]},
+		{"fname" : "bull_on_the_loose.mp3", "name" : "Bull On The Loose", "created" : 2009, "length" : 258, "tags" : ["neutral", "beat"]},
+		{"fname" : "children_play.mp3", "name" : "Children Play", "created" : 2004, "length" : 240, "tags" : ["happy", "beat", "cute"]},
+		{"fname" : "cirkus.mp3", "name" : "Cirkus", "created" : 2008, "length" : 236, "tags" : ["happy", "funny", "organic", "beat"]},
+		{"fname" : "composer.mp3", "name" : "Composer", "created" : 2007, "length" : 209, "tags" : ["neutral", "beat"]},
+		{"fname" : "dayatthezoo.mp3", "name" : "Day At The Zoo", "created" : 2010, "length" : 169, "tags" : ["happy", "organic"]},
+		{"fname" : "deserted.mp3", "name" : "Deserted", "created" : 2016, "length" : 175, "tags" : ["sad", "ambient", "movie"]},
+		{"fname" : "desperado.mp3", "name" : "Desperado", "created" : 2011, "length" : 233, "tags" : ["neutral", "relaxed"]},
+		{"fname" : "dont_walk_away.mp3", "name" : "Don't Walk Away", "created" : 2010, "length" : 231, "tags" : ["neutral", "romantic", "beat"]},
+		{"fname" : "draft_trap.mp3", "name" : "Draft Trap", "created" : 2013, "length" : 54, "tags" : ["neutral", "beat", "energetic"]},
+		{"fname" : "dream_machine.mp3", "name" : "Dream Machine", "created" : 2008, "length" : 235, "tags" : ["movie", "ambient"]},
+		{"fname" : "enjoytheride.mp3", "name" : "Enjoy The Ride", "created" : 2008, "length" : 237, "tags" : ["neutral", "energetic", "movie"]},
+		{"fname" : "factory_method.mp3", "name" : "Factory Method", "created" : 2012, "length" : 149, "tags" : ["neutral", "beat", "mysterious"]},
+		{"fname" : "feelings.mp3", "name" : "Feelings", "created" : 2008, "length" : 222, "tags" : ["sad", "beat", "hopeful"]},
+		{"fname" : "floating_away.mp3", "name" : "Floating Away", "created" : 2009, "length" : 249, "tags" : ["happy", "game"]},
+		{"fname" : "for_the_broken_hearted.mp3", "name" : "For The Broken Hearted", "created" : 2014, "length" : 301, "tags" : ["relaxed", "neutral"]},
+		{"fname" : "funkee.mp3", "name" : "Funkee", "created" : 2006, "length" : 233, "tags" : ["beat", "competition"]},
+		{"fname" : "get_up_and_go_go.mp3", "name" : "Get Up And Go-Go", "created" : 2016, "length" : 160, "tags" : ["happy", "positive", "commercial"]},
+		{"fname" : "golden_memories.mp3", "name" : "Golden Memories", "created" : 2009, "length" : 267, "tags" : ["happy", "romantic", "relaxed"]},
+		{"fname" : "good_morning_in_wonderland.mp3", "name" : "Good Morning In Wonderland", "created" : 2008, "length" : 321, "tags" : ["ambient", "relaxed", "neutral"]},
+		{"fname" : "hollow_dreams.mp3", "name" : "Hollow Dreams", "created" : 2008, "length" : 187, "tags" : ["sad", "movie"]},
+		{"fname" : "i_long_for_you.mp3", "name" : "I Long For You", "created" : 2014, "length" : 314, "tags" : ["neutral", "relaxed", "romantic"]},
+		{"fname" : "i_want_some_more.mp3", "name" : "I Want Some More", "created" : 2013, "length" : 314, "tags" : ["neutral", "ambient", "relaxed"]},
+		{"fname" : "icecave.mp3", "name" : "Ice Cave", "created" : 2014, "length" : 93, "tags" : ["neutral", "beat"]},
+		{"fname" : "is_this_how_love_is_supposed_to_feel.mp3", "name" : "Is This How Love Is Supposed To Feel", "created" : 2013, "length" : 263, "tags" : ["sad", "beat"]},
+		{"fname" : "jungle_beat.mp3", "name" : "Jungle Beat", "created" : 2004, "length" : 258, "tags" : ["positive", "happy", "cute", "organic", "beat"]},
+		{"fname" : "jungle_funk.mp3", "name" : "Jungle Funk", "created" : 2009, "length" : 290, "tags" : ["happy", "positive", "funny", "organic"]},
+		{"fname" : "lessons_of_life.mp3", "name" : "Lessons Of Life", "created" : 2012, "length" : 210, "tags" : ["beat", "neutral"]},
+		{"fname" : "lets_get_married.mp3", "name" : "Lets Get Married", "created" : 2009, "length" : 238, "tags" : ["happy", "beat", "romantic"]},
+		{"fname" : "lift_me_up.mp3", "name" : "Lift Me Up", "created" : 2016, "length" : 117, "tags" : ["positive", "energetic", "commercial"]},
+		{"fname" : "lolcats.mp3", "name" : "Lol Cats", "created" : 2012, "length" : 253, "tags" : ["happy", "energetic", "cute"]},
+		{"fname" : "lose_it.mp3", "name" : "Lose It", "created" : 2006, "length" : 248, "tags" : ["funny", "neutral", "beat"]},
+		{"fname" : "love_funk.mp3", "name" : "Love Funk", "created" : 2007, "length" : 65, "tags" : ["beat", "romantic", "relaxed"]},
+		{"fname" : "manileemiainoo.mp3", "name" : "Manileemiainoo", "created" : 2010, "length" : 255, "tags" : ["neutral", "beat", "hopeful"]},
+		{"fname" : "minimal_mystery.mp3", "name" : "Minimal Mystery", "created" : 2015, "length" : 180, "tags" : ["ambient", "movie"]},
+		{"fname" : "my_rocketship.mp3", "name" : "My Rocketship", "created" : 2010, "length" : 260, "tags" : ["neutral", "relaxed"]},
+		{"fname" : "night_raider.mp3", "name" : "Night Raider", "created" : 2006, "length" : 205, "tags" : ["neutral", "energetic", "competition"]},
+		{"fname" : "no_excuses.mp3", "name" : "No Excuses", "created" : 2008, "length" : 197, "tags" : ["neutral", "hopeful", "beat"]},
+		{"fname" : "nomads_theme.mp3", "name" : "Nomads Theme", "created" : 2010, "length" : 324, "tags" : ["movie", "mysterious"]},
+		{"fname" : "old_and_new.mp3", "name" : "Old And New", "created" : 2016, "length" : 149, "tags" : ["relaxed"]},
+		{"fname" : "on_hold.mp3", "name" : "On Hold", "created" : 2013, "length" : 93, "tags" : ["beat", "relaxed"]},
+		{"fname" : "one_man_band.mp3", "name" : "One Man Band", "created" : 2008, "length" : 270, "tags" : ["competition", "energetic", "organic"]},
+		{"fname" : "one_must_win.mp3", "name" : "One Must Win", "created" : 2015, "length" : 181, "tags" : ["competition", "game", "energetic"]},
+		{"fname" : "over_the_mountains.mp3", "name" : "Over The Mountains", "created" : 2012, "length" : 451, "tags" : ["neutral", "ambient"]},
+		{"fname" : "overclocked.mp3", "name" : "Overclocked", "created" : 2010, "length" : 212, "tags" : ["neutral", "energetic", "competition"]},
+		{"fname" : "paradise.mp3", "name" : "Paradise", "created" : 2010, "length" : 251, "tags" : ["positive", "energetic"]},
+		{"fname" : "penguins.mp3", "name" : "Penguins", "created" : 2015, "length" : 219, "tags" : ["positive", "cute", "happy"]},
+		{"fname" : "phoenix_9000.mp3", "name" : "Phoenix 9000", "created" : 2016, "length" : 233, "tags" : ["energetic", "competition", "hopeful"]},
+		{"fname" : "ponderland.mp3", "name" : "Ponderland", "length" : 494, "created" : 2011, "tags" : ["ambient"]},
+		{"fname" : "positive_vibes.mp3", "name" : "Positive Vibes", "created" : 2015, "length" : 113, "tags" : ["positive", "happy", "commercial", "organic"]},
+		{"fname" : "reggardless.mp3", "name" : "Reggardless", "created" : 2013, "length" : 236, "tags" : ["positive", "energetic"]},
+		{"fname" : "resonance.mp3", "name" : "Resonance", "created" : 2013, "length" : 278, "tags" : ["ambient", "beat", "hopeful"]},
+		{"fname" : "robot_in_love.mp3", "name" : "Robot In Love", "created" : 2013, "length" : 340, "tags" : ["positive", "cute", "relaxed"]},
+		{"fname" : "sappiest.mp3", "name" : "Sappiest", "created" : 2009, "length" : 240, "tags" : ["romantic", "beat"]},
+		{"fname" : "serene.mp3", "name" : "Serene", "created" : 2013, "length" : 251, "tags" : ["neutral", "relaxed", "romantic"]},
+		{"fname" : "shine.mp3", "name" : "Shine", "created" : 2011, "length" : 165, "tags" : ["energetic", "competition"]},
+		{"fname" : "shiny_eyes.mp3", "name" : "Shiny Eyes", "created" : 2010, "length" : 251, "tags" : ["neutral", "beat"]},
+		{"fname" : "shopping_sales.mp3", "name" : "Shopping Sales", "created" : 2013, "length" : 94, "tags" : ["positive", "beat"]},
+		{"fname" : "showcase.mp3", "name" : "Showcase", "created" : 2013, "length" : 346, "tags" : ["neutral", "relaxed", "commercial"]},
+		{"fname" : "sirens.mp3", "name" : "Sirens", "created" : 2008, "length" : 272, "tags" : ["neutral", "movie"]},
+		{"fname" : "sky_glider.mp3", "name" : "Sky Glider", "created" : 2010, "length" : 76, "tags" : ["positive", "commercial", "hopeful"]},
+		{"fname" : "sleeping_with_fishes.mp3", "name" : "Sleeping With Fishes", "created" : 2012, "length" : 244, "tags" : ["cute", "positive", "relaxed"]},
+		{"fname" : "spacebirds.mp3", "name" : "Space Birds", "created" : 2012, "length" : 153, "tags" : ["neutral", "ambient", "energetic"]},
+		{"fname" : "still_alone.mp3", "name" : "Still Alone", "created" : 2016, "length" : 89, "tags" : ["sad", "ambient", "movie"]},
+		{"fname" : "stream_of_time.mp3", "name" : "Stream Of Time", "created" : 2015, "length" : 297, "tags" : ["mysterious", "ambient"]},
+		{"fname" : "swinging.mp3", "name" : "Swinging", "created" : 2009, "length" : 219, "tags" : ["happy", "relaxed", "commercial", "organic"]},
+		{"fname" : "taking_you_with_me.mp3", "name" : "Taking You With Me", "created" : 2011, "length" : 276, "tags" : ["positive", "relaxed", "cute"]},
+		{"fname" : "traintoheaven.mp3", "name" : "Train to Heaven", "created" : 2013, "length" : 412, "tags" : ["neutral", "ambient", "relaxed"]},
+		{"fname" : "u_used_2_b_my_romeo.mp3", "name" : "U Used 2 B My Romeo", "created" : 2018, "length" : 215, "tags" : ["hopeful", "positive", "cute", "beat"]},
+		{"fname" : "valentines_day.mp3", "name" : "Valentines Day", "created" : 2010, "length" : 187, "tags" : ["cute", "romantic"]},
+		{"fname" : "voice_from_the_desert.mp3", "name" : "Voice From The Desert", "created" : 2009, "length" : 231, "tags" : ["neutral", "beat"]},
+		{"fname" : "walk_together.mp3", "name" : "Walk Together", "created" : 2008, "length" : 247, "tags" : ["romantic", "sad"]},
+		{"fname" : "walking_proudly.mp3", "name" : "Walking Proudly", "created" : 2016, "length" : 102, "tags" : ["positive", "relaxed", "organic"]},
+		{"fname" : "watching_the_stars.mp3", "name" : "Watching The Stars", "created" : 2010, "length" : 262, "tags" : ["neutral", "beat"]},
+		{"fname" : "we_grew_up_together.mp3", "name" : "We Grew Up Together", "created" : 2011, "length" : 413, "tags" : ["romantic", "ambient"]},
+		{"fname" : "when_i_first_met_you.mp3", "name" : "When I First Met You", "created" : 2015, "length" : 233, "tags" : ["happy", "romantic", "positive", "energetic"]},
+		{"fname" : "when_it_rains.mp3", "name" : "When It Rains", "created" : 2009, "length" : 232, "tags" : ["romantic", "organic", "hopeful"]},
+		{"fname" : "when_my_beat_drops.mp3", "name" : "When My Beat Drops", "created" : 2015, "length" : 230, "tags" : ["hopeful", "cute", "energetic"]},
+		{"fname" : "when_night_falls.mp3", "name" : "When Night Falls Over The City", "created" : 2012, "length" : 361, "tags" : ["neutral", "ambient"]},
+		{"fname" : "where_are_you_now.mp3", "name" : "Where Are You Now?", "created" : 2013, "length" : 448, "tags" : ["ambient", "sad"]},
+		{"fname" : "woods.mp3", "name" : "Woods", "created" : 2012, "length" : 233, "tags" : ["positive", "relaxed"]},
+		{"fname" : "world_traveler.mp3", "name" : "World Traveller", "created" : 2009, "length" : 291, "tags" : ["romantic", "beat"]},
+		{"fname" : "you.mp3", "name" : "You", "created" : 2013, "length" : 248, "tags" : ["beat", "neutral", "romantic"]},
+		{"fname" : "young_and_wild.mp3", "name" : "Young And Wild", "created" : 2015, "length" : 238, "tags" : ["neutral", "energetic"]}
+	]
+}
