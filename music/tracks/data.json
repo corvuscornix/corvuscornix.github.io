@@ -150,6 +150,7 @@
 		{"fname" : "betularme.mp3", "name" : "Betular Me", "created" : 2011, "length" : 314, "tags" : ["positive", "cute", "beat"]},
 		{"fname" : "bull_on_the_loose.mp3", "name" : "Bull On The Loose", "created" : 2009, "length" : 258, "tags" : ["neutral", "beat"]},
 		{"fname" : "children_play.mp3", "name" : "Children Play", "created" : 2004, "length" : 240, "tags" : ["happy", "beat", "cute"]},
+		{"fname" : "cologne.mp3", "name" : "Cologne", "created" : 2018, "length" : 292, "tags" : ["beat", "ambient", "commercial"]},
 		{"fname" : "cirkus.mp3", "name" : "Cirkus", "created" : 2008, "length" : 236, "tags" : ["happy", "funny", "organic", "beat"]},
 		{"fname" : "composer.mp3", "name" : "Composer", "created" : 2007, "length" : 209, "tags" : ["neutral", "beat"]},
 		{"fname" : "dayatthezoo.mp3", "name" : "Day At The Zoo", "created" : 2010, "length" : 169, "tags" : ["happy", "organic"]},
