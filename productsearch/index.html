@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Product Search</title>
+
+    <style>
+        #error {
+            color: red;
+            margin: 16px 0;
+        }
+
+        body {
+            background: #0000000a;
+            margin: 24px;
+            font-family: sans-serif;
+        }
+
+        #search-container {
+            display: flex;
+            max-width: 800px;
+        }
+
+        #searchkey, #submit {
+            border: none;
+            padding: 16px;
+            font-size: 20px;
+            transition: all 200ms;
+        }
+
+        #searchkey {
+            flex-grow: 1;
+        }
+
+        #submit {
+            background:seagreen;
+            color: white;
+        }
+
+        #submit:hover {
+            background: limegreen;
+        }
+
+        #submit:active {
+            background: seagreen;
+        }
+
+        article {
+            background: white;
+            margin: 24px 0;
+            padding: 16px;
+            display: flex;
+        }
+
+        .article-info {
+            flex-grow: 1;
+        }
+
+        .article-rating {
+            min-width: 100px;
+            align-self: center;
+            text-align: center;
+            font-weight: 600;
+            font-size: 26px;
+        }
+
+        #total-score {
+            background: white;
+            margin: 24px 0;
+            align-items: center;
+            flex-direction: column;
+            display: flex;
+        }
+
+        #total-score span {
+            margin: 16px;
+        }
+
+        #total-score .total-score-value {
+            font-size: 64px;
+            font-weight: 600;
+            margin-top: 0;
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div id="search-container">
+        <input type="search" id="searchkey" placeholder="Search by product name"/>
+        <button id="submit" type="submit">Search</button>
+    </div>
+    <div id="error"></div>
+
+    <div id="total-score">
+        
+    </div>
+
+    <div id="results-list">
+        
+    </div>
+
+    <script src="bundle.js"></script>
+</body>
+
+</html>
+
+
