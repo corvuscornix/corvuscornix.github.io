@@ -197,7 +197,7 @@
 		{"fname" : "phoenix_9000.mp3", "name" : "Phoenix 9000", "created" : 2016, "length" : 233, "tags" : ["energetic", "competition", "hopeful"]},
 		{"fname" : "ponderland.mp3", "name" : "Ponderland", "length" : 494, "created" : 2011, "tags" : ["ambient"]},
 		{"fname" : "positive_vibes.mp3", "name" : "Positive Vibes", "created" : 2015, "length" : 113, "tags" : ["positive", "happy", "commercial", "organic"]},
-		{"fname" : "reggardless.mp3", "name" : "Reggardless", "created" : 2013, "length" : 236, "tags" : ["positive", "energetic"]},
+		{"fname" : "reggardless.mp3", "name" : "Reggardless", "created" : 2013, "length" : 236, "tags" : ["positive", "cute", "energetic"]},
 		{"fname" : "resonance.mp3", "name" : "Resonance", "created" : 2013, "length" : 278, "tags" : ["ambient", "beat", "hopeful"]},
 		{"fname" : "robot_in_love.mp3", "name" : "Robot In Love", "created" : 2013, "length" : 340, "tags" : ["positive", "cute", "relaxed"]},
 		{"fname" : "sappiest.mp3", "name" : "Sappiest", "created" : 2009, "length" : 240, "tags" : ["romantic", "beat"]},
